@@ -6,4 +6,8 @@ Sentiment values: "Very negative" = 0, "Negative" = 1, "Neutral" = 2, "Positive"
 
 Results: After streaming and analyzing tweets that contain the word 'summer' for a few hours, the following graphs were generated.
 
-![alt text](/graphical_plots/1_sentiment_over_time.png)
+![sentiment over time](/graphical_plots/1_sentiment_over_time.png)
+
+![avg sentiment over time](/graphical_plots/2_avg_sentiment_over_time.png)
+
+![sentiment counts](/graphical_plots/3_sentiment_count.png)
